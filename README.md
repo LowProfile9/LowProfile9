@@ -1,6 +1,7 @@
-### Hi there 👋, I'm [ANDRES FELIPE MENDOZA GOMEZ]!
-- 🔭 I’m a [Junior Backend Developer]
-- 🌱 Currently learning [Go]
+### Hi there 👋, 
+### I'm ANDRES FELIPE MENDOZA GOMEZ! 
+- 🔭 I’m a **Junior Backend Developer**
+- 🌱 Currently learning **Go**
   
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript, Python 
