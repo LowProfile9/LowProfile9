@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, I'm [ANDRES FELIPE MENDOZA GOMEZ]!
+- 🔭 I’m a [Junior Backend Developer]
+- 🌱 Currently learning [Go]
+  
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, Python 
+- **Frontend:** React, Next.js, TailwindCSS
+- **Backend:** Node.js, Django
 
-<!--
-**LowProfile9/LowProfile9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 My Projects
+- [Anime Page]([https://github.com/you/project1](https://github.com/jeison-nura/animetest)) - A modern web for reading & watching anime
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/andres-felipe-mendoza-gomez-159553141/)
+- Email: suppforcoin@gmail.com
