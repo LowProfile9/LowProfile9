@@ -1,17 +1,71 @@
-<h1 align="center">Hi 👋, I'm Andres Felipe Mendoza Gomez</h1>
-<h3 align="center">A passionate programmer from Colombia</h3>
+<h1 align="center">¡Hola!soy Andres Felipe Mendoza Gomez 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lowprofile9&label=Profile%20views&color=0e75b6&style=flat" alt="lowprofile9" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Estudiante+de+Software+💻;Amante+del+C%C3%B3digo+;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **Java & Go**
+<p align="center">💡 <em>"Programo, luego aprendo: cada función es un reto, cada error una enseñanza."</em></p>
 
-- 👯 I’m looking to collaborate on [animetest](https://github.com/jeison-nura/animetest)
+---
 
-- 💬 Ask me about **Javascript**
+### 🧑‍💻 Sobre mí
 
-- 📫 How to reach me **suppforcoin@gmail.com**
+- 📍 Desde cucúta, Norte de santander – Colombia 🇨🇴  
+- 👨‍🏫 estudiante amante del software   
+- 🧠 En constante aprendizaje: tecnología y vida  
+- 🗣️ Idiomas: Español 🇪🇸 | Inglés C1 (Avanzado) 
+
+---
+
+### 🛠️ Tech Stack
+
+#### Lenguajes  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![☕ Java](https://img.shields.io/badge/%E2%98%95%20Java-F89820?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+#### Herramientas  
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-0078C1?style=flat&logo=netbeans&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-45352F?style=flat&logo=dbeaver&logoColor=white)
+
+
+
+
+---
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lowprofile9&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lowprofile9&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowprofile9&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+</p>
+
+---
+
+
+### 📈 Actividad Reciente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lowprofile9&theme=tokyo-night&area=true" alt="activity graph" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- ✉️ suppforcoin@gmail.com
+
+
+---
+
+<p align="center">Gracias por estar aquí 😊 El software que importa se transforma junto a sus usuarios.</p>
